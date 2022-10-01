@@ -11,7 +11,7 @@ research_projects_one:
             icon: "fab fa-fw fa-github"
             url: "https://github.com/greenelab/generic-expression-patterns"
           - label: "View preprint"
-            icon: "fa-solid fa-eye"
+            icon: "fa-fw far fa-eye"
             url: "https://www.biorxiv.org/content/10.1101/2021.05.24.445440v3.full.pdf"
 research_projects_two:
      - image_path: #https://raw.githubusercontent.com/danich1/annorxiver/65ee4a556ab69f2308e5e4d9192905e8cfec3728/figure_generation/output/Figure_2.png
@@ -22,7 +22,7 @@ research_projects_two:
             icon: "fab fa-fw fa-github"
             url: "https://github.com/greenelab/simulate-expression-compendia"
           - label: "View publication"
-            icon: "far fa-file-alt"
+            icon: "fa-fw far fa-file-alt"
             url: "https://academic.oup.com/gigascience/article/9/11/giaa117/5952607"
 
 research_projects_three:
@@ -34,7 +34,7 @@ research_projects_three:
             icon: "fab fa-fw fa-github"
             url: "https://github.com/greenelab/core-accessory-interactome"
           - label: "View preprint"
-            icon: "fa-solid fa-eye"
+            icon: "fa-fw far fa-eye"
             url: "https://www.biorxiv.org/content/10.1101/2022.04.14.488429v1.full.pdf"
 
 ---
