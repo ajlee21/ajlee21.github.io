@@ -37,10 +37,10 @@
         {% if f.links %}
         {% for link in f.links %}
         {% if link.label and link.url %}
-        <!-- <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i
-              class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li> -->
-        <p><a href="{{ link.url | relative_url }}" class="btn {{ f.btn_class }}">{{ link.label | default:
-            site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i
+              class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        <!-- <p><a href="{{ link.url | relative_url }}" class="btn {{ f.btn_class }}">{{ link.label | default:
+            site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p> -->
         {% endif %}
         {% endfor %}
         {% endif %}
