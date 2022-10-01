@@ -25,14 +25,21 @@ research_projects_two:
 research_projects_three:
      - image_path: #https://raw.githubusercontent.com/greenelab/text_mined_hetnet_manuscript/3a040e78114208417d2b1784ae558fb323eabe01/content/images/figures/hetionet/metagraph_highlighted_edges.png
        title: Uncovering nuanced transcriptional patterns in *P. aeruginosa* compendium
-       url: "https://github.com/greenelab/core-accessory-interactome"
+       #url: "https://github.com/greenelab/core-accessory-interactome"
        excerpt: "Investigating the transcriptional patterns of core and accessory gene expression in PAO1 and PA14 strains in a compendium containing thousands of samples from hundreds of distinct experiments."
-       btn_label: |
-        <i class="fab fa-fw fa-github" aria-hidden="true"></i> View Repo
-      url: "https://www.biorxiv.org/content/10.1101/2022.04.14.488429v1.full.pdf"
-      btn_label: |
-        <i class="fa fa-file-text-o"></i> aria-hidden="true"></i> View preprint
-       btn_class: "btn--primary"
+       links:
+          - label: "View repo"
+            icon: "fab fa-fw fa-github"
+            url: "https://github.com/greenelab/core-accessory-interactome"
+          - label: "View preprint"
+            icon: "fa fa-file-text-o"
+            url: "https://www.biorxiv.org/content/10.1101/2022.04.14.488429v1.full.pdf"
+       #btn_label: |
+        #<i class="fab fa-fw fa-github" aria-hidden="true"></i> View Repo
+      #url: "https://www.biorxiv.org/content/10.1101/2022.04.14.488429v1.full.pdf"
+      #btn_label: |
+      #  <i class="fa fa-file-text-o"></i> aria-hidden="true"></i> View preprint
+      # btn_class: "btn--primary"
 ---
 
 ## Research Projects
