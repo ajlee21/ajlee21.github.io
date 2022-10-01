@@ -10,5 +10,4 @@ title: CV
 {% include resume/experiences.html %}
 {% include resume/teaching_experiences.html %}
 {% include resume/publications.html %}
-{% include resume/honors.html %}
 {% include resume/skills.html %}
