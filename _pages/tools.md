@@ -19,7 +19,7 @@ tool_two:
             icon: "fab fa-fw fa-github"
             url: "https://github.com/greenelab/ponyo"
           - label: "Pypi"
-            icon: "fa-fw fa-brands fa-python"
+            icon: "fa-brands fa-fw fa-python"
             url: "https://pypi.org/project/ponyo/"
 
 ---
