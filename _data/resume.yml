@@ -10,150 +10,112 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data Scientist with 12+ years of programming experience and 4+ years of experience in data analytics and visualization.
+      Computational research scientist with 10+ years of experience in data analysis and 4+ years of experience developing and applying maching learning tools.
       Most of my research projects involved analyzing terabytes worth of biomedical text for downstream Natural Language Processing (NLP) tasks such as corpora comparison and text extraction.
       Recently, I have shifted focus onto projects designed to perform bibliometric analyses for government funding clients.
-
 resume-summary: 
     title: Summary
     summary: |
-      Data Scientist with 12+ years of programming experience and 4+ years of experience in data analytics and visualization.
-
+      Computational research scientist with 10+ years of experience in data analysis and 4+ years of experience developing and applying maching learning tools.
 education:
     - degree: Ph.D. in Genomics and Computational Biology
       university: University of Pennsylvania
-      time: June 2022
+      time: May 2022
       details: 
-    - degree: Postbaccalaureate Program (Penn Prep)
-      university: University of Pennsylvania
-      time: June 2016
+    - degree: M.S. in Applied Mathematics
+      university: University of Washington
+      time: June 2012
       details: 
-    - degree: B.S. in Computer Science and Minor in Bioinformatics
-      university: University of Maryland Baltimore County
-      time: May 2015
+    - degree: B.A. in Mathematics and Minor in Computer Science
+      university: Bryn Mawr College
+      time: May 2011
       details:
 
-research_experience:
-    - role: Data Scientist
-      time: June 2022 - Present
-      location: Digital Science & Research Solutions, Ltd.
+experience:
+    - role: Sr. Community engagement/Bio data scientist
+      time: October 2022 - Present
+      location: DNAnexus
       details: |
-        - Uses textual analysis to help government funders and clients understand research trends and emerging topics
-        - Worked with machine learning models to perform topical analysis on research grants, publications, etc.
-        - Used Dash to build dashboards that narrate results for government funding clients
-
+        - TBD
+    - role: Scientific consultant
+      time: July 2022 - Present
+      location: Soma Logic
+      details: |
+        - Advise technical aspects of projects that applied machine learning methods to proteomics data
     - role: Graduate Researcher
-      time: August 2016 - June 2022
+      time: August 2017 - May 2022
       location: University of Pennsylvania
       details: |
-        - Designed and implemented parallel processing pipelines that achieved a 3x speed-up when analyzing terabytes of biomedical text.
-        - Used weak supervision for a 1.5x speed-up when training deep learning models (recurrent neural networks and transformers) to extract biomedical relationships from biomedical text.
-        - Applied a k-nearest-neighbor model to provide scientists with a web service that identifies a listing of journals linguistically similar to a preprint of interest. 
-        - Applied a time series analysis to discover over 20,000 different timepoints where words have changed their semantic meaning. 
-
-    - role: Postbaccalaureate Researcher
-      time: June 2015 - June 2016
-      location: University of Pennsylvanias
+        - Performed gene-gene correlation analyses that revealed transcriptional patterns within and between core and accessory genes across P. aeruginosa strain types
+        - Designed an approach to distinguish between common and context-specific transcriptional signals using a generative neural network to simulate a set of background transcriptome experiments: https://github.com/greenelab/sophie
+        - Developed and published a python package to simulate a compendium of genome-wide gene expression data using a generative neural network: https://pypi.org/project/ponyo/
+        - Built an analysis pipeline in python to measure the effect of varying amounts of technical noise in simulated compendia
+    - role: Bioinformatics analyst
+      time: September 2012 - June 2017
+      location: J. Craig Venter Institute
       details: |
-        - Used hypothesis testing (hyper geometric test) to discover over 1000 protein domains that are easily targetable by small molecules and drugs. 
-        - Constructed a bioinformatics pipeline that efficiently discovers novel motifs in the Golden Orb-weaver spider genome.
-
+        - Designed and implemented a computational analysis workflow to identify candidate Zika-specific epitopes to improve diagnostic tests
+        - Assisted in the development of a user-constrained computational pipeline to semi-automatically gate flow cytometry data (python)
+        - Used data mining to identify antigenic regions of Influenza A virus HA protein that could be candidate targets of protective immunity
+        - Facilitated enhancements to Influenza Research Databases (www.fludb.org) and Virus Pathogen Resource Database (www.viprbrc.org) Bioinformatics Research Center
+        - Performed research on: Influenza virus, Flaviviruses, Chikungunya virus, MERS-CoV, Arenavirus, RSV, Ebolavirus
     - role: Undergrad Researcher
       time: September 2013 - May 2015
       location: University of Maryland Baltimore County (UMBC)
       details: |
           - Characterized population-level transcriptional regulation by assisting with the creation of
           a bioinformatic pipeline that quantifies transcription factor enrichment in metagenomic data.
-
-    - role: Summer Research Intern
-      time: June 2014
-      location: University of Pennsylvania (SUIP)
-      details: |
-          - Created a Perl pipeline that utilized Mendelian Randomization and Approximate Bayesian Computation 
-          to discover if having an elevated level of triglycerides causes heart disease.
-
-    - role: Summer Research Intern
-      time: June 2013
-      location: Harvard University and Massachusetts Institute of Technology Bioinformatics and Integrative Genomics (BIG)
-      details: |
-          - Explored a more efficient measure to track DNA samples. Researched the use of SNP (single nucleotide polymorphisms) 
-          information to act as a DNA barcode to keep track of patient samples that have undergone different gene sequencing workflows.
-
-    - role: Summer Research Intern
-      time: June 2012
-      location: University of Pittsburgh and Carnegie Mellon University (TecBio)
-      details: |
-       - Conducted machine learning to assess algorithms to determine the best strategies to identify lung cancer in patients as early as possible.
-
 teaching_experience:
-    - role: Advisor for a rotation student for Research Lab
-      time: Sept 2020 - Dec 2020
-      location: University of Pennsylvania (Genomics and Computational Biology Program)
+    - role: Deep Learning for Biologists Workshop/Co-organizer
+      time: November 2020
+      #location: Co-organizer
       details: |
-          - Guided rotation student on conducting and executing a research project that analyzed biomedical abstracts to model disease-gene trajectories through time.
-
-    - role: Student Advisor for 1st and 2nd Year Ph.D. Students
-      time: August 2018 - August 2020
-      location: University of Pennsylvania (Genomics and Computational Biology Program)
+          - Designed structure of the workshop
+          - Presented about recurrent neural networks and dimensionality reduction methods (PCA, autoencoders)
+          - Blog advertisement: https://greenelab.com/2020/10/19/DL-workshop.html
+          - Workshop recording: https://www.youtube.com/watch?v=LyZo6an8Qqo
+    - role: Python BootCamp/Co-organizer and lecturer
+      time: Summer 2018 - 2020
+      #location: Co-organizer, Lecturer, Teaching Assistant
       details: |
-          - Advised first and second year Ph.D. students on which classes to take for the fall and spring semester
-          - Advised first year Ph.D. students about the mechanics of lab rotations
-
-    - role: Python BootCamp/Teaching Assistant
-      time: August 2019
-      location: University of Pennsylvania (Genomics and Computational Biology Program)
+          - Designed structure of the course
+          - Wrote weekly HW assignments with built in test cases
+          - Gave lecture about python pandas
+          - Assisted students with HW and gave them feedback on assignments
+          - Course material: https://github.com/PennGCB/python_bootcamp
+    - role: Mentorship
+      time: Fall 2020, Spring 2021
+      #location: Mentor, co-mentor
       details: |
-          - Assisted in teaching Ph.D. students how to program in python.
-
-    - role: Advanced Computational Biology/Tutor
-      time: April 2019 - May 2019
-      location: University of Pennsylvania (Genomics and Computational Biology Program)
+          - Mentored one undergraduate student through GCB’s Summer in Computational Biology pilot program
+          - Guided students through their research projects; helped them to decide next steps; Provided technical support
+    - role: Differential equations/Teaching assistant
+      time: Fall 2011
+      #location: Teaching assistant
       details: |
-          - Assisted a Ph.D. student in learning advanced computational biology topics.
-          - Topics ranged from machine learning algorithms to various statistical algorithms
-
-    - role: Python BootCamp/Teaching Assistant
-      time: September 2017
-      location: University of Pennsylvania (Genomics and Computational Biology Program)
+          - Tutored and assisted students in lecture content and homework at bi-weekly office hour sessions 
+    - role: Introduction to computer science/Teaching assistant
+      time: Fall 2009
+      #location: Teaching assistant
       details: |
-          - Assisted in teaching Ph.D. students how to program in python.
-
-    - role: Data Structures/Tutor
-      time: Sept 2013 - May 2014
-      location: University of Maryland Baltimore County (UMBC)
-      details: |
-          - Tutored and assisted students in studying/programming various data structures such as binary search trees to hash tables.
-
-    - role: Math Tutor
-      time: Sept 2012 - May 2013
-      location: University of Maryland Baltimore County (UMBC)
-      details: |
-          - Worked in walk-in tutoring sessions for university services.
-          - Tutored students in math classes from Algebra I to Calculus II
-
-    - role: Calculus I and II/Learning Assistant
-      time: Sept 2012 - May 2013
-      location: University of Maryland Baltimore County (UMBC)
-      details: |
-         - Helped professor assist students in homework during office hours
-
+          - Tutored and assisted students in studying/programming scribbler robots to perform simple tasks
 publications:
     title: Publications
     intro:
     papers:
-      - title: Unmasking The Language Of Science Through Textual Analyses On Biomedical Preprints And Published PapersOn Biomedical Preprints And Published Papers
-        link: "https://repository.upenn.edu/cgi/viewcontent.cgi?article=6692&context=edissertations"
-        authors: <b>Nicholson, D. N.</b>
+      - title: Big Data for Microorganisms:Computational Approaches Leveraging Large-Scale Microbial Transcriptomic Compendia
+        link: "https://www.proquest.com/docview/2695582313"
+        authors: <b>Lee AJ</b>
 
-      - title: Changing Word Meanings in Biomedical Literature Reveal Pandemics and New Technologies
-        link: "https://www.biorxiv.org/content/10.1101/2022.06.27.497742v1"
-        authors: <b>Nicholson, D. N.</b>, Alquaddoomi, F., Rubinetti, V., Greene, C. S. (2022, Preprint)
+      - title: Using genome-wide expression compendia to study microorganisms
+        link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9396250/"
+        authors: <b>Lee AJ</b>, Reiter T, Doing G, Oh J, Hogan DA, Greene CS (2022)
 
-      - title: Characterization of the Genome and Silk-gland Transcriptomes of Darwin’s Bark Spider (Caerostris darwini)
-        link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268660"
-        authors: Babb, P. L., Gregorič, M., Lahens, N. F.,<b> Nicholson, D. N. </b>, Hayashi, C. Y., Higgins, L., Kuntner, M., Agnarsson, I., Voight, B. F. (2022)
+      - title: Compendium-wide analysis of P. aeruginosa core and accessory genes reveal nuanced transcriptional patterns
+        link: "https://www.biorxiv.org/content/10.1101/2022.04.14.488429v1"
+        authors: <b> Lee AJ </b>, Doing G, Neff SL, Hogan DA, Greene CS (preprint, 2022)
 
-      - title: Examining Linguistic Shifts between Preprints and Publications
+      - title: Examining Linguistic Shifts between Preprints and Publications**
         link: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001470"
         authors: <b>Nicholson, D. N.</b>, Rubinetti, V., Hu, D., Thielk, M., Hunter, L. E.,  Greene, C. S. (2022)
 
