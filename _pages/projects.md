@@ -32,7 +32,7 @@ research_projects_three:
             icon: "fab fa-fw fa-github"
             url: "https://github.com/greenelab/core-accessory-interactome"
           - label: "View preprint"
-            icon: "fa fa-file-text-o"
+            icon: "far fa-file-alt"
             url: "https://www.biorxiv.org/content/10.1101/2022.04.14.488429v1.full.pdf"
        #btn_label: |
         #<i class="fab fa-fw fa-github" aria-hidden="true"></i> View Repo
