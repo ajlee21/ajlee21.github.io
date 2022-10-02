@@ -3,7 +3,7 @@ permalink: /projects/
 layout: archive
 title: Projects
 research_projects_one:
-     - image_path: /assets/images/generic_expression_project.png
+     - image_path: /assets/images/generic_expression_project_1.png
        title: Separating between common and context-specific transcriptional responses
        excerpt: "Distinguishing between common and experiment-specific transcriptional signals using a generative neural network."
        links:
