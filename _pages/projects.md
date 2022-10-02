@@ -3,7 +3,7 @@ permalink: /projects/
 layout: archive
 title: Projects
 research_projects_one:
-     - image_path: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_1.png
+     - image_path: /assets/images/generic_project.svg
        title: Separating between common and context-specific transcriptional responses
        excerpt: "Distinguishing between common and experiment-specific transcriptional signals using a generative neural network."
        links:
@@ -14,7 +14,7 @@ research_projects_one:
             icon: "fa-fw far fa-eye"
             url: "https://www.biorxiv.org/content/10.1101/2021.05.24.445440v3.full.pdf"
 research_projects_two:
-     - image_path: https://raw.githubusercontent.com/greenelab/simulate-expression-compendia/master/Pseudomonas/results/Pseudomonas_experiment_lvl_sim_svcca_limma.png
+     - image_path: /assets/images/batch_effects_project.svg
        title: Impact of technical variation in large-scale compendia
        excerpt: "Evaluating the effect of technical sources of variability in large-scale gene expression compendia."
        links:
@@ -26,7 +26,7 @@ research_projects_two:
             url: "https://academic.oup.com/gigascience/article/9/11/giaa117/5952607"
 
 research_projects_three:
-     - image_path: https://raw.githubusercontent.com/greenelab/core-accessory-interactome/master/3_core_core_analysis/pao1_similarity_scores_dist_spell.svg
+     - image_path: /assets/images/core_acc_tool.svg
        title: Uncovering nuanced transcriptional patterns in P. aeruginosa compendium
        excerpt: "Investigating the transcriptional patterns of core and accessory gene expression in PAO1 and PA14 strains in a compendium containing thousands of samples from hundreds of distinct experiments."
        links:
