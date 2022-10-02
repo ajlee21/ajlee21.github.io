@@ -111,6 +111,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: #"mailto:dnicholson329@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ajlee21"
     - label: "Orcid"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-0208-3730"
@@ -123,9 +126,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ajlee21"
     - label: "Portfolio"
       icon: "fas fa-portrait"
       url: "https://ajlee21.github.io/"
@@ -136,18 +136,18 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/localee_compact"
-    - label: "Orcid"
-      icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0002-0208-3730"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ajlee21"
+    - label: "Orcid"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-0208-3730"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/localee_compact"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
