@@ -3,7 +3,7 @@ permalink: /tools/
 layout: archive
 title: Tools
 tool_one:
-     - image_path: /assets/images/sophie_tool.png
+     - image_path: /assets/images/sophie_tool.svg
        title: SOPHIE
        excerpt: "Software to distinguish between common and experiment-specific transcriptional signals."
        links:
