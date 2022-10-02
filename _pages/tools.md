@@ -9,7 +9,7 @@ tool_one:
        links:
           - label: "View repo"
             icon: "fab fa-fw fa-github"
-            url: https://github.com/greenelab/sophie"
+            url: "https://github.com/greenelab/sophie"
 tool_two:
      - image_path: #https://raw.githubusercontent.com/danich1/annorxiver/65ee4a556ab69f2308e5e4d9192905e8cfec3728/figure_generation/output/Figure_2.png
        title: ponyo
@@ -19,7 +19,7 @@ tool_two:
             icon: "fab fa-fw fa-github"
             url: "https://github.com/greenelab/ponyo"
           - label: "Pypi"
-            icon: "fa-brands fa-fw fa-python"
+            icon: "fa-brands fa-python"
             url: "https://pypi.org/project/ponyo/"
 
 ---
