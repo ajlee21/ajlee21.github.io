@@ -59,14 +59,8 @@ experience:
         - Used data mining to identify antigenic regions of Influenza A virus HA protein that could be candidate targets of protective immunity
         - Facilitated enhancements to Influenza Research Databases (www.fludb.org) and Virus Pathogen Resource Database (www.viprbrc.org) Bioinformatics Research Center
         - Performed research on: Influenza virus, Flaviviruses, Chikungunya virus, MERS-CoV, Arenavirus, RSV, Ebolavirus
-    - role: Undergrad Researcher
-      time: September 2013 - May 2015
-      location: University of Maryland Baltimore County (UMBC)
-      details: |
-          - Characterized population-level transcriptional regulation by assisting with the creation of
-          a bioinformatic pipeline that quantifies transcription factor enrichment in metagenomic data.
 teaching_experience:
-    - role: Deep Learning for Biologists Workshop/Co-organizer
+    - role: Co-organizer for Deep Learning for Biologists Workshop
       time: November 2020
       #location: Co-organizer
       details: |
@@ -74,7 +68,7 @@ teaching_experience:
           - Presented about recurrent neural networks and dimensionality reduction methods (PCA, autoencoders)
           - Blog advertisement: https://greenelab.com/2020/10/19/DL-workshop.html
           - Workshop recording: https://www.youtube.com/watch?v=LyZo6an8Qqo
-    - role: Python BootCamp/Co-organizer and lecturer
+    - role: Co-organizer and lecturer for Python BootCamp
       time: Summer 2018 - 2020
       #location: Co-organizer, Lecturer, Teaching Assistant
       details: |
@@ -83,18 +77,18 @@ teaching_experience:
           - Gave lecture about python pandas
           - Assisted students with HW and gave them feedback on assignments
           - Course material: https://github.com/PennGCB/python_bootcamp
-    - role: Mentorship
+    - role: Graduate student mentor
       time: Fall 2020, Spring 2021
       #location: Mentor, co-mentor
       details: |
           - Mentored one undergraduate student through GCB’s Summer in Computational Biology pilot program
           - Guided students through their research projects; helped them to decide next steps; Provided technical support
-    - role: Differential equations/Teaching assistant
+    - role: Differential equations teaching assistant
       time: Fall 2011
       #location: Teaching assistant
       details: |
           - Tutored and assisted students in lecture content and homework at bi-weekly office hour sessions 
-    - role: Introduction to computer science/Teaching assistant
+    - role: Introduction to computer science teaching assistant
       time: Fall 2009
       #location: Teaching assistant
       details: |
@@ -115,130 +109,89 @@ publications:
         link: "https://www.biorxiv.org/content/10.1101/2022.04.14.488429v1"
         authors: <b> Lee AJ </b>, Doing G, Neff SL, Hogan DA, Greene CS (preprint, 2022)
 
-      - title: Examining Linguistic Shifts between Preprints and Publications**
-        link: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001470"
-        authors: <b>Nicholson, D. N.</b>, Rubinetti, V., Hu, D., Thielk, M., Hunter, L. E.,  Greene, C. S. (2022)
+      - title: Generative neural networks separate common and specific transcriptional responses
+        link: "https://www.biorxiv.org/content/10.1101/2021.05.24.445440v3"
+        authors: <b>Lee AJ</b>, Mould DL, Crawford J, Hu D, Powers RK, Doing G, Costello JC, Hogan DA, Greene CS (preprint, 2022)
 
-      - title: Constructing Knowledge Graphs and Their Biomedical Applications
-        link: "https://doi.org/10.1016/j.csbj.2020.05.017"
-        authors: <b>Nicholson, D. N.</b>, Greene, C. S. (2020)
+      - title: Application of Traditional Vaccine Development Strategies to SARS-CoV-2
+        link: "https://arxiv.org/abs/2208.08907"
+        authors: Rando HM, Lordan R, <b>Lee AJ</b>, Naik A, Welhausen N, Sell E, Kolla L, COVID-19 Review Consortium, Gitter A, Greene CS (preprint, 2022)
 
-      - title: Expanding a Database-derived Biomedical Knowledge Graph via Multi- Relation Extraction from Biomedical Abstracts
-        link: "https://doi.org/10.1101/730085"
-        authors: <b>Nicholson, D. N.</b>, Himmelstein, D. S., Greene, C. S. (2022)
+      - title: CF-Seq, an accessible web application for rapid re-analysis of cystic fibrosis pathogen RNA sequencing studies
+        link: "https://www.nature.com/articles/s41597-022-01431-1"
+        authors: Neff SL, Hampton TH, Puerner C, Cengher L, Doing G, <b> Lee AJ </b>, Koeppen K, Stanton BA (2022)
 
-      - title: The Nephila Clavipes Genome Highlights the Diversity of Spider Silk Genes and their Complex Expression
-        link: "https://doi.org/10.1038/ng.3852"
-        authors: Babb, P. L., Lahens, N. F., Correa-Garhwal, S. M., <b>Nicholson, D. N.</b>, Kim, E.J., Hogenesch, J.B., Kuntner, M., Higgins, L., Hayashi, C. Y., Agnarsson, I., Voight, B.F. (2017)
+      - title: Ten Simple rules for large-scale data processing
+        link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009757"
+        authors: Fungtammasan A, <b> Lee AJ </b>, Taroni J, Wheeler K, Chin C, Davis S, Greene CS (2022)
 
-honors:
-    - award: Appointed trainee on T32 Computational Genetics
-      time: June 2019 - August 2021
-      location: National Human Genome Research Institute (NHGRI)
+      - title: Ten Quick Tips for Deep Learning in Biology
+        link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009803"
+        authors: Lee BD, Gitter A, Greene CS, Raschka S, Maguire F, Titus AJ, Kessler MD, <b> Lee AJ </b>, Chevrette MG, Stewart PA, Britto-Borges T, Cofer EM, ..., Boca SM (2022)
 
-    - award: Meyerhoff Scholar (M23)
-      time: August 2011 - June 2015
-      location: University of Maryland Baltimore County
+      - title: Identification and Development of Therapeutics for COVID-19
+        link: "https://journals.asm.org/doi/10.1128/mSystems.00233-21"
+        authors: Rando HM, Welhausen N, Gosh S, <b> Lee AJ </b>, Dattoli AA, Hu F, Byrd JB, Rafizadeh DN,...COVID-19 Review Consortium, Boca SM, Gitter A, Greene CS (2021)
 
-    - award: Marc U*Star Scholar
-      time: Sept 2014 -June 2015
-      location: University of Maryland Baltimore County
+      - title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through analysis of Viral Genomics and Structure
+        link: "https://journals.asm.org/doi/10.1128/mSystems.00233-21"
+        authors: Rando HM, Welhausen N, Gosh S, <b> Lee AJ </b>, Dattoli AA, Hu F, Byrd JB, Rafizadeh DN,...COVID-19 Review Consortium, Boca SM, Gitter A, Greene CS (2021)
 
-    - award: National Security Agency (NSA) Scholar
-      time: Sept 2012 - June 2014
-      location: University of Maryland Baltimore County
+      - title: SARS-CoV-2 and COVID-19:An Evolving Review of Diagnostics and Therapeutics
+        link: "https://greenelab.github.io/covid19-review/"
+        authors: Rando HM, Greene CS, Robson MP, Boca SM,... <b> Lee AJ </b>, Hu F, Jadvji NM,...COVID-19 Review Consortium (2021)
 
-    - award: Thomson Reuters Award HackMIT
-      time: October 2014
+      - title: Correcting for experiment-specific variability in expression compendia can remove underlying signals
+        link: "https://academic.oup.com/gigascience/article/9/11/giaa117/5952607"
+        authors: <b> Lee AJ </b>, Park Y, Doing G, Hogan DA, Greene CS (2020)
 
-    - award: ABRCMS Poster Presentation Award
-      time: November 2013
+      - title: Pseudomonas aeruginosa lasR mutant fitness in microoxia is supported by an Anr-regulated oxygen-binding hemerythrin
+        link: "https://www.pnas.org/doi/10.1073/pnas.1917576117"
+        authors: Clay ME, Hammond JH, Zhong F, Chen X, Kowalski CH, <b> Lee AJ </b>, Porter MS, Hampton TH, Greene CS (2019)
 
-presentations:
-    - title: Elsevier's Labs Online Lecture services
-      type: |
-        - 30 Minute Talk
-      time: October 2021
-    - title: Institute for Biomedical Informatics (IBI) Annual Retreat
-      type: |
-        - Poster Presentation
-      time: December 2020
+      - title: The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens
+        link: "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1835-8"
+        authors: Zhou N, Jiang Y, Bergquist TR, <b> Lee AJ </b>, Kacsoh BZ, Crocker AW, Lewis KA, ...Friedberg I (2019)
 
-    - title: Cold Spring Harbor Biological Data Science Symposium
-      type: |
-        - Lightning Talk and Poster Presentation
-      time: November 2020
+      - title: DAFi:A directed recursive data filtering and clustering approach for improving and interpreting data clustering identification of cell populations from polychromatic flow cytometry data
+        link: "https://pubmed.ncbi.nlm.nih.gov/29665244/"
+        authors: <b> Lee AJ </b>, Chang I, Burel J, Lindestam Arlehamn CS, Mandava A, Weiskopf D, Peters B, Sette A, Scheuermann RH, Qian Y (2018)
 
-    - title: National Human Genome Research Institute National Trainee Meeting
-      type: |
-        - Poster Presentation
-      time: March 2020
+      - title: Cell type discovery and representation in the era of high-content single cell phenotyping
+        link: "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1977-1"
+        authors: Bakken T, Cowell L, Aevermann BD, Novotny M, Hodge R, Miller JA, <b> Lee AJ </b>, Chang I, McCorrison J, Pulendran B, Schork NJ, Lasken RS, Lein ES, Sheuermann RH (2017)
 
-    - title: Seminar at Elsevier
-      type: |
-        - Invited Speaker
-      time: December 2019
+      - title: Automated Analysis of Flow Cytometry Data to Reduce Inter-Lab Variation in the Detection of Major Histocompatibility Complex Multimer-Binding T Cells
+        link: "https://pubmed.ncbi.nlm.nih.gov/28798746/"
+        authors: Pedersen NW, Chandran PA, Qian Y, Rebhahn J, Petersen NV, Hoff MD, White S, <b> Lee AJ </b>, Stanton R, Scheuermann RH, Hadrup SR (2017)
 
-    - title: International Society of Computational Biology (ISCB) Rocky
-      type: |
-        - Poster Presentation
-      time: December 2019
+      - title: Identification of diagnostic peptide regions that distinguish Zika virus from related mosquito-borne Flaviviruses
+        link: "https://pubmed.ncbi.nlm.nih.gov/28562637/"
+        authors: <b> Lee AJ </b>, Bhattacharya R, Scheuermann RH, Pickett BE (2017)
 
-    - title: Institute for Biomedical Informatics (IBI) Annual Retreat
-      type: |
-        - Poster Presentation
-      time: June 2019
+      - title: Influenza Research Database:An integrated bioinformatics resource for influenza virus research
+        link: "https://pubmed.ncbi.nlm.nih.gov/27679478/"
+        authors: Zhang Y, Aevermann BD, Anderson TK, Burke DF, Dauphin G, Gu Z, He S, Kumar S, Larsen CN, <b> Lee AJ </b>, Li X, Macken C, Mahaffey C, Pickett BE, Reardon B, Smith T, Stewart L, Suloway C, Sun G, Tong L, Vincent AL, Walters B, Zaremba S, Zhao H, Zhou L,. Zmasek C, Klem EB, Scheuermann RH (2017)
 
-    - title: International Society of Computational Biology (ISCB) Rocky
-      type: |
-        - Poster Presentation
-      time: December 2018
+      - title: Genetic changes found in a distinct clade of Enterovirus D68 associated with paralysis during the 2014 outbreak
+        link: "https://pubmed.ncbi.nlm.nih.gov/28512577/"
+        authors: Zhang Y, Cao J, Zhang S, <b> Lee AJ </b>, Larsen CN, Zhao H, Gu Z, He S, Klem EB, Scheuermann RH (2016)
 
-    - title: Computational Systems for Integrative Genomics (CSIG)
-      type: |
-        - Lightning Talk
-      time: July 2017
+      - title: FlowGate:towards extensible and scalable web-based flow cytometry data analysis
+        link: "https://dl.acm.org/doi/abs/10.1145/2792745.2792750"
+        authors: Qian Y, Kim H, Purawat S, Wang J, Stanton R, <b> Lee AJ </b>, Xu W, Altintas I, Sinkovits R, Scheuermann RH (2015)
 
-    - title: UMBC’s Undergraduate Research and Creative Achievement Day 
-      type: |
-        - Poster Presentation
-      time: Spring 2014
-
-    - title: Attended Harvard’s Biomedical Science Careers Student Conference
-      types:
-      time: April 2014
-
-    - title: Participated in MIT’s Quantitative Biology Workshop
-      type: 
-      time: Jan 2014
-
-    - title: Annual Biomedical Research Conference for Minority Students
-      type:
-      time: November 2013
+      - title: Diversifying Selection Analysis Predicts Antigenic Evolution of 2009 Pandemic H1N1 Influenza A Virus in Humans
+        link: "https://pubmed.ncbi.nlm.nih.gov/25741011/"
+        authors: <b> Lee AJ </b>, Das SR, Wang W, Fitzgerald T, Pickett BE, Aevermann BD, Topham DJ, Falsey AR, Scheuermann RH (2015)
 
 projects:
     title: Projects
     intro: Highlighted Research Repositories 
     assignments:
-      - title: Biovectors
-        link: "https://github.com/greenelab/biovectors/"
-        tagline: "Using word embeddings to detect longitudinal changes in biomedical abstracts."
-
-      - title: Preprint Similarity Search
-        link: "https://greenelab.github.io/preprint-similarity-search/"
-        tagline: "A web app that uses machine learning to recommend the most suitable journals based on the textual content of your preprint."
-
-      - title: Annorxiver
-        link: "https://github.com/greenelab/annorxiver"
-        tagline: "Performing a linguistic analysis of the bioRxiv repository."
-
-      - title: Snorkeling-Full-Text
-        link: "https://github.com/greenelab/snorkeling-full-text"
-        tagline: "Extracting biomedical relationships from literature using weak supervision via the Snorkel python library."
-
-      - title: Pubtator
-        link: "https://github.com/greenelab/pubtator"
-        tagline: "Resource for converting Pubtator and Pubtator Central annotations into BioCXML format."
+      - title: SOPHIE
+        link: "https://github.com/greenelab/sophie"
+        tagline: "Software to distinguish between common and experiment-specific transcriptional signals using a generative neural network."
 
 skills:
     title: Skills &amp; Proficiency
@@ -248,19 +201,19 @@ skills:
         - name: Github
         - name: Python
         - name: R
-        - name: SQL
+        - name: Matlab
+        - name: Latex
       - skill_group:
-        - name: Data Visualization
+        - name: sci-kit learn
+        - name: keras
+        - name: tensorflow
+      - skill_group:
         - name: Machine Learning
-        - name: Deep Learning, Transformers
-        - name: Natural Language Processing
-        - name: Bayesian Modeling
-      - skill_group:
-        - name: Data Structures
-        - name: Algorithms
-        - name: Parallel Processing
-        - name: XML parsing
-        - name: Web Development, HTML/CSS
+        - name: Applied mathematics
+        - name: Deep Learning, generative neural networks
+        - name: Topology
+        - name: Dynamical systems
+      
 
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
