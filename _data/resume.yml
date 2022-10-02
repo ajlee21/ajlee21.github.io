@@ -93,6 +93,20 @@ teaching_experience:
       #location: Teaching assistant
       details: |
           - Tutored and assisted students in studying/programming scribbler robots to perform simple tasks
+leadership_experience:
+    - role: Founding member of GCB Equity, Diversity and Inclusion committee
+      time: July 2020 - March 2022
+      #location: Co-organizer
+      details: |
+          - Lead initiatives to help 1st/2nd year graduate students adjust to Penn, Philadelphia, and graduate-school life
+          - Attended bi-monthly committee meetings to discuss the progress of initiatives and provide feedback on new proposals
+    - role: Chair of GCB committee of social affairs
+      time: September 2018 - September 2021
+      #location: Co-organizer, Lecturer, Teaching Assistant
+      details: |
+          - Organized venue, activities, food, and refreshment for social events
+          - Coordinated with external vendors
+
 publications:
     title: Publications
     intro:
