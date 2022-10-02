@@ -11,12 +11,11 @@ excerpt: "Data scientist who utilizes machine learning tools to extract patterns
 feature_row:
   - image_path: ""
     alt: ""
-    title: "SOPHIE"
-    excerpt: "This tool distinguishes between common and experiment-specific transcriptional signals using a generative neural network."
+    title: "Specific cOntext Pattern Highlighting In Expression data” (SOPHIE)"
+    excerpt: "This tool distinguishes between common and experiment-specific transcriptional signals using a generative neural network. This tool was applied in the [recent preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445440v3) and is now available on in its own github repository."
     url: "/tools/"
-    btn_label: "Find out more"
-    btn_class: "btn--inverse"
-
+    btn_label: "Learn more"
+    btn_class: "btn--primary"
 #  - image_path: ""
 #    alt: ""
 #    title: "Preprint similarity search"
