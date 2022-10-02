@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexandra Lee"
-  avatar           : #"/assets/images/profile-small-suit.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data scientist who utilizes machine learning tools to extract patterns from large-scale datasets."
   location         : 
   email            : 

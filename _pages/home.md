@@ -5,7 +5,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#35591a"
   overlay_filter: "0.5"
-  overlay_image: #/assets/images/chris-ried-ieic5Tq8YMk-unsplash.jpg
+  overlay_image: /assets/images/home.jpg
 title: "Alexandra Lee"
 excerpt: "Data scientist who utilizes machine learning tools to extract patterns from large-scale datasets."
 feature_row:
