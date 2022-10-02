@@ -3,7 +3,7 @@ permalink: /projects/
 layout: archive
 title: Projects
 research_projects_one:
-     - image_path: /assets/images/generic_expression_project.svg
+     - image_path: /assets/images/generic_expression_project.png
        title: Separating between common and context-specific transcriptional responses
        excerpt: "Distinguishing between common and experiment-specific transcriptional signals using a generative neural network."
        links:
@@ -26,7 +26,7 @@ research_projects_two:
             url: "https://academic.oup.com/gigascience/article/9/11/giaa117/5952607"
 
 research_projects_three:
-     - image_path: /assets/images/core_acc_project.svg
+     - image_path: /assets/images/core_acc_project.png
        title: Uncovering nuanced transcriptional patterns in P. aeruginosa compendium
        excerpt: "Investigating the transcriptional patterns of core and accessory gene expression in PAO1 and PA14 strains in a compendium containing thousands of samples from hundreds of distinct experiments."
        links:
