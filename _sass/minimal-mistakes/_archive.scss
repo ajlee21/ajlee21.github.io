@@ -53,10 +53,10 @@
   a[rel="permalink"]::before {
     content: '';
     position: absolute;
-    left: 10;
-    top: 10;
-    right: 10;
-    bottom: 10;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
   }
 
   a + a {
@@ -92,6 +92,10 @@
 
   img {
     width: 100%;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
   }
 }
 
