@@ -8,14 +8,14 @@ header:
   overlay_image: #/assets/images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 title: "Alexandra Lee"
 excerpt: "Data scientist who utilizes machine learning tools to extract patterns from large-scale datasets."
-#feature_row:
-#  - image_path: ""
-#    alt: ""
-#    title: "Biovectors"
-#    excerpt: "This project focuses on detecting semantic shifts through time."
-#    url: "/projects/#research-projects"
-#    btn_label: "Find out more"
-#    btn_class: "btn--inverse"
+feature_row:
+  - image_path: ""
+    alt: ""
+    title: "SOPHIE"
+    excerpt: "This tool distinguishes between common and experiment-specific transcriptional signals using a generative neural network."
+    url: "/tools/"
+    btn_label: "Find out more"
+    btn_class: "btn--inverse"
 
 #  - image_path: ""
 #    alt: ""
