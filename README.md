@@ -1,3 +1,3 @@
-# danich1.github.io
-Personal webiste for David Nicholson  
+# ajlee21.github.io
+Personal webiste for Alexandra Lee  
 Uses the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/) template
