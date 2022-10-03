@@ -14,7 +14,7 @@ feature_row:
     excerpt: "This tool distinguishes between common and experiment-specific transcriptional signals using a generative neural network. This tool was applied in the [recent preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445440v3) and is now available on in its own github repository."
     url: "/tools/"
     btn_label: "Learn more"
-    btn_class: "btn--inverse btn--secondary"
+    btn_class: "btn--inverse--secondary"
 #  - image_path: ""
 #    alt: ""
 #    title: "Preprint similarity search"
