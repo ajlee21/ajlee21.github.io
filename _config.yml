@@ -308,7 +308,7 @@ defaults:
 
   # _research_projects
   - scope:
-      path: 
+      path: ""
       type: portfolio
     values:
       layout: single
