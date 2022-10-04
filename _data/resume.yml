@@ -11,8 +11,6 @@ career-profile:
     title: Career Profile
     summary: |
       Computational research scientist with 10+ years of experience in data analysis and 4+ years of experience developing and applying maching learning tools.
-      Most of my research projects involved analyzing terabytes worth of biomedical text for downstream Natural Language Processing (NLP) tasks such as corpora comparison and text extraction.
-      Recently, I have shifted focus onto projects designed to perform bibliometric analyses for government funding clients.
 resume-summary: 
     title: Summary
     summary: |
@@ -66,8 +64,7 @@ teaching_experience:
       details: |
           - Designed structure of the workshop
           - Presented about recurrent neural networks and dimensionality reduction methods (PCA, autoencoders)
-          - Blog advertisement: https://greenelab.com/2020/10/19/DL-workshop.html
-          - Workshop recording: https://www.youtube.com/watch?v=LyZo6an8Qqo
+          - Materials: [Blog advertisement](https://greenelab.com/2020/10/19/DL-workshop.html); [workshop recording](https://www.youtube.com/watch?v=LyZo6an8Qqo)
     - role: Co-organizer and lecturer for Python BootCamp
       time: Summer 2018 - 2020
       #location: Co-organizer, Lecturer, Teaching Assistant
@@ -76,7 +73,7 @@ teaching_experience:
           - Wrote weekly HW assignments with built in test cases
           - Gave lecture about python pandas
           - Assisted students with HW and gave them feedback on assignments
-          - Course material: https://github.com/PennGCB/python_bootcamp
+          - [Course material](https://github.com/PennGCB/python_bootcamp)
     - role: Graduate student mentor
       time: Fall 2020, Spring 2021
       #location: Mentor, co-mentor
