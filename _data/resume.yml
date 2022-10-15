@@ -10,7 +10,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Computational research scientist with 10+ years of experience in data analysis and 4+ years of experience developing and applying maching learning tools.
+      Computational research scientist with 10+ years of experience in data analysis and 4+ years of experience developing and applying machine learning tools.
 resume-summary: 
     title: Summary
     summary: |
@@ -91,7 +91,7 @@ teaching_experience:
       details: |
           - Tutored and assisted students in studying/programming scribbler robots to perform simple tasks
 leadership_experience:
-    - role: Founding member of GCB Equity, Diversity and Inclusion committee
+    - role: Founding member of GCB EDI committee
       time: July 2020 - March 2022
       #location: Co-organizer
       details: |
