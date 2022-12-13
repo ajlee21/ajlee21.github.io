@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
-layout: single
+layout: archive
 title: Blog
 ---
 
@@ -38,7 +38,7 @@ $ git push -u <origin or upstream> <branch name>
 ```
 This allows you to sync your local repository with the forked repo (your personal Github) and eventually the organization's repository. 
 
-If you call `$ git remote -v` you will see that origin (your personal Github), upstream (your organization's Github)
+If you call `$ git remote -v` you will see that origin is your personal Github and upstream is your organization's Github.
 **Warning:** Do not touch “master” or “upstream/master” branch
 
 7. (Local repository) Make changes on your branch
