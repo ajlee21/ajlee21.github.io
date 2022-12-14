@@ -283,16 +283,6 @@ compress_html:
   ignore:
     envs: development
 
-
-#collections
-collections:
-  posts:
-    output: true
-    permalink: /:collection/:path/
-  #projects:
-  #  output: true
-  #  permalink: /:collection/:path/
-
 # Defaults
 defaults:
   # _posts
