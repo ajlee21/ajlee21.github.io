@@ -1,8 +1,6 @@
 ---
 title: "Getting started with github"
 share: true
-categories:
-  - blog
 tags:
   - github
 ---
