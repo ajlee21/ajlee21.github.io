@@ -1,7 +1,10 @@
 ---
-permalink: /blog/
-layout: archive
-title: Blog
+title: "Getting started with github"
+share: true
+categories:
+  - blog
+tags:
+  - github
 ---
 
 # Getting started using Github
