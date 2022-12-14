@@ -1,8 +1,7 @@
 ---
 title: "Getting started with github"
-share: true
-tags:
-  - github
+toc: true
+toc_label: "github"
 ---
 
 # Getting started using Github
