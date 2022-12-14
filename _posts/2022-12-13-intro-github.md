@@ -1,5 +1,5 @@
 ---
-title: "Getting started with github"
+title: Getting started with github
 toc: true
 toc_label: "github"
 ---
