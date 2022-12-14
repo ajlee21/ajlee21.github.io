@@ -4,8 +4,6 @@ toc: true
 toc_label: "github"
 ---
 
-# Getting started using Github
-
 1. Setup SSH key for git
 
 Adding an SSH key means that each time you make a commit to github, you don't need to put in your github login information each time.
@@ -24,7 +22,9 @@ You only need to perform this step once
 4. (On Github) Clone the repository to your local machine
 * On forked branch click “clone & download”
 * In your local terminal run the command:
-`$ git clone git@github.com:<user name>/<repository name>`
+```
+$ git clone git@github.com:<user name>/<repository name>
+```
 
 5. (Local repository) Create upstream branch,
 ```
