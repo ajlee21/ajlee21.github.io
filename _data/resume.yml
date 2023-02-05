@@ -34,7 +34,8 @@ experience:
       time: October 2022 - Present
       location: DNAnexus
       details: |
-        - TBD
+        - Prototype computational workflows to analyze genomic, proteomic large-scale datasets
+        - Train users how to apply the workflows for their own research via online webinars
     - role: Scientific consultant
       time: July 2022 - Present
       location: Soma Logic
@@ -117,8 +118,8 @@ publications:
         authors: <b>Lee AJ</b>, Reiter T, Doing G, Oh J, Hogan DA, Greene CS (2022)
 
       - title: Compendium-wide analysis of P. aeruginosa core and accessory genes reveal PAO1 and PA14 transcriptional patterns
-        link: "https://www.biorxiv.org/content/10.1101/2022.04.14.488429v1"
-        authors: <b> Lee AJ </b>, Doing G, Neff SL, Hogan DA, Greene CS (preprint, 2022)
+        link: "https://journals.asm.org/doi/10.1128/msystems.00342-22"
+        authors: <b> Lee AJ </b>, Doing G, Neff SL, Hogan DA, Greene CS (2022)
 
       - title: SOPHIE Generative neural networks separate common and specific transcriptional responses
         link: "https://pubmed.ncbi.nlm.nih.gov/36216026/"
