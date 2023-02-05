@@ -4,8 +4,8 @@ layout: single
 title: About
 ---
 
-Alexandra is a Sr. Community engagement/Bio data scientist at [DNAnexus](https://www.dnanexus.com/), where she helps communities of scientist access and use large-scale datasets, like UK biobank, on [DNAnexus' cloud computing platform](https://www.dnanexus.com/partnerships/ukbiobank).
-She also works with that community to understand their research needs and build analysis workflows these large biobanks to help facilitate biological insights.
+Alexandra is a Sr. Community engagement/Biomedical data scientist at [DNAnexus](https://www.dnanexus.com/), where she helps communities of scientist access and use large-scale datasets, like UK biobank, on [DNAnexus' cloud computing platform](https://www.dnanexus.com/partnerships/ukbiobank).
+She prototypes computational workflows to analyze the multi-modal data available in these large biobanks to help facilitate biological insights.
 
 She recieved a doctorate in [Genomics and Computational Biology](https://www.med.upenn.edu/gcb/) under the advisement of [Casey Greene](https://greenelab.com/) from the University of Pennsylvania (UPenn).
 Her doctoral research focused on developing machine learning (ML) methods (generative neural networks, VAEs) to leverage large scale transcriptomic compendia to extract patterns and inform biological discoveries.
